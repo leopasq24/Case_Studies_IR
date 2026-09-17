@@ -1,3 +1,6 @@
 /sift*
 sift.tar.gz
 siftsmall.tar.gz
+
+.venv/
+venv/
